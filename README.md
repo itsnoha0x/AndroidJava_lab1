@@ -12,6 +12,11 @@
 
 ## Screenshots
 
+Écran principal:
 ![Écran principal](lab1screens/1.png)
+
+Toast affiché:
 ![Toast affiché](lab1screens/2.png)
+
+Compteur incrémenté:
 ![Compteur incrémenté](lab1screens/3.png)
